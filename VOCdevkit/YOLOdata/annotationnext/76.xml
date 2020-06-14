@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photonext</folder>
+	<filename>76.jpg</filename>
+	<path>D:\YOLOdata\photonext\76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1904</width>
+		<height>1022</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basketball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>618</xmin>
+			<ymin>743</ymin>
+			<xmax>669</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+</annotation>

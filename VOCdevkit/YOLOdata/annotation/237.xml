@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>237.jpg</filename>
+	<path>D:\YOLOdata\photo\237.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1167</width>
+		<height>821</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basketball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>244</ymin>
+			<xmax>244</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>
